@@ -7,5 +7,6 @@ PromptTemplate( ...
 &nbsp;&nbsp;&nbsp;&nbsp;"today": get_today  # pass partial variable as a form of dictionary  
 &nbsp;&nbsp;},   
 &nbsp;&nbsp;... )  
-### (2)  
+### (2) MessagePlaceHolder
+A reserved spot for messages that will be filled in later.  
 
